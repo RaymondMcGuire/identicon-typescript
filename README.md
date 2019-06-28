@@ -2,7 +2,7 @@
 identicon typescript version
 
 #Demo
-Online Demo[https://raymondmcguire.github.io/identicon-typescript/]
+(Online Demo)[https://raymondmcguire.github.io/identicon-typescript/]
 
 # development
 ## build
