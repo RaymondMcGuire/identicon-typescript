@@ -1,5 +1,9 @@
 # identicon-typescript
 identicon typescript version
+
+#Demo
+Online Demo[https://raymondmcguire.github.io/identicon-typescript/]
+
 # development
 ## build
 yarn run build
