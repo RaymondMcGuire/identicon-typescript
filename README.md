@@ -1,6 +1,8 @@
 # identicon-typescript
 identicon typescript version
 
+![identicon](./docs/identicon.png?raw=true "identicon")
+
 # Demo
 [Online Demo](https://raymondmcguire.github.io/identicon-typescript/)
 
