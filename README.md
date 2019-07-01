@@ -1,8 +1,7 @@
 # identicon-typescript
 identicon typescript version
 
-![identicon](./docs/identicon.png?raw=true "identicon")
-
+<img src="./docs/identicon.png" width="42">
 # Demo
 [Online Demo](https://raymondmcguire.github.io/identicon-typescript/)
 
